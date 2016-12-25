@@ -7,7 +7,7 @@ var sel;
 
 function setup() {
     createCanvas(800, 800);
-    frameRate(60);
+    frameRate(10);
     list = [];
     elements = 30;
     for (var i = 0; i < elements; i++) {
